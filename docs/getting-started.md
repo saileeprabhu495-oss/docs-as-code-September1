@@ -1,5 +1,5 @@
  # Getting Started
-Welcome to our product documentation. Welcome to our product documentation.Welcome to our product documentation. Welcome to our product documentation.Welcome to our product documentation.
+Welcome to our product documentation. Welcome to our product documentation.Welcome to our product documentation. Welcome to our product documentation.Welcome to our product documentation...
 Welcome to our product documentation.
 
 You are doing **_amazing today_**. 
@@ -20,7 +20,8 @@ List of guides:
   - Level2 list
     - level3 list
 - Getting started 
-- User Guide
+- User Guide...cxc
+  
 
 Ordered list
 1. Step 1
@@ -190,4 +191,6 @@ Make sure you:
 2. Are connected to the correct remote repository.
 3. Have permission to push to the repository.
  
- 
+ Checking to commit and push
+
+ done

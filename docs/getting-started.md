@@ -20,7 +20,7 @@ List of guides:
   - Level2 list
     - level3 list
 - Getting started 
-- User Guide...cxc
+- User Guide...
   
 
 Ordered list

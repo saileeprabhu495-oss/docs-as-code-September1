@@ -115,7 +115,7 @@ Follow the installation steps carefully.
 > Do not close the terminal while the installation is running.
 
 
-Task list
+## Task list
  
 - [x] Set up the editor
 - [x] Write some markdown

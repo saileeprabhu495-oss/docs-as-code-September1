@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Sailee Website',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -83,17 +83,17 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Sailee Website',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Sailee Website Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docs',
             position: 'left',
-            label: 'Tutorial',
+            label: 'documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -146,7 +146,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Sailee Website, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

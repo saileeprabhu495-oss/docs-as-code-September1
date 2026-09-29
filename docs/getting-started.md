@@ -20,7 +20,7 @@ List of guides:
   - Level2 list
     - level3 list
 - Getting started 
-- User Guide...cxc
+- User Guide...
   
 
 Ordered list
@@ -77,6 +77,7 @@ Collen for allignment in table
 | Saina | Badmintion | India|
 Messi | Football | Argentina |
 Sailee | Swimming | India
+MB: Add another heading
 
 >**Important**
 > note: This is a note.
@@ -115,7 +116,7 @@ Follow the installation steps carefully.
 > Do not close the terminal while the installation is running.
 
 
-Task list
+## Task list
  
 - [x] Set up the editor
 - [x] Write some markdown

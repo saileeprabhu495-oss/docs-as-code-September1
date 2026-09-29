@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://saileeprabhu495-oss.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs-as-code-September1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'saileeprabhu495-oss', // Usually your GitHub org/user name.
+  projectName: 'docs-as-code-September1', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -49,8 +49,9 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        
+            editUrl:
+  'https://github.com/saileeprabhu495-oss/docs-as-code-September1/tree/main/company-docs/',
         },
         blog: {
           showReadingTime: true,
@@ -97,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/saileeprabhu495-oss/docs-as-code-September1',
             label: 'GitHub',
             position: 'right',
           },
